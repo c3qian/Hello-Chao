@@ -1,2 +1,2 @@
 # Optical character recognition
-This is my personal project -- Optical characters recognition.
+This is part of the project -- Recommending system design.
